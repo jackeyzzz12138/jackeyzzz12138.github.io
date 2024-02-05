@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jackey&#39;s Blog</title>
+  
+  <subtitle>Welcome to my blog, enjoy yourself.</subtitle>
+  <link href="https://jackeyzzz12138.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://jackeyzzz12138.github.io/"/>
+  <updated>2024-02-05T03:41:40.000Z</updated>
+  <id>https://jackeyzzz12138.github.io/</id>
+  
+  <author>
+    <name>Jackey</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于 GitHub 学生包的申请问题</title>
+    <link href="https://jackeyzzz12138.github.io/2024/02/05/%E6%8A%98%E8%85%BE%E8%AE%A1-05/"/>
+    <id>https://jackeyzzz12138.github.io/2024/02/05/%E6%8A%98%E8%85%BE%E8%AE%A1-05/</id>
+    <published>2024-02-05T03:41:40.000Z</published>
+    <updated>2024-02-05T03:41:40.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>为了copilot的使用自由，趁着放假闲来无事想折腾一下免费的GPT-4，随即查了一下相关资料就开搞。</p><p>感觉网络上的资料时效性可能已经不太够了，自己写一篇记录一下吧，参考的同时注意本文章的时效性吧。</p><h2 id="可能需要的相关材料"><a href="#可能需要的相关材料" class="headerlink" title="可能需要的相关材料"></a>可能需要的相关材料</h2><ul><li>一个 <code>edu</code> 邮箱  </li><li>相关的学位证明(英文)</li><li>GitHub个人主页及相关设置进行修改</li></ul><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p>edu邮箱怎么搞就不说了，如果你在高校就读或者工作，大概率是可以很容易申请到的。  </p><p>相关学位证明，海外高校应该可以直接拍摄上传，如果是中国大陆内的高校，可以使用学信网download下你的认证报告，然后使用这个<a href="https://github.com/Nagi-ovo/CHSI-Converter">仓库</a>转一下英文就好了。</p><p>如果有reject，仔细看里面的描述，我这边改了一下billing相关的信息就给过了，我并没有修改GitHub的名字为真实名字。剩下的几次reject都是因为拍照的时候不清晰导致的（说明那边大概是OCR识别的，因为我拍清楚后就直接<strong>秒过</strong>）。  </p><p>接下来就说说这个拍照过程，可谓是<em>小刀喇屁股</em>，开始用手机进行，结果发现网页并<strong>不能调用手机的后置摄像头只能用前置</strong>（好多issue也是提这个问题，而且截至目前仍未得到解决），低像素+手抖自然拍不了清晰的照片。</p><blockquote><p>网上有资料说多次失败能够唤出上传文件按钮，但我多次失败并没有复现出相关的操作🥲。 同时建议使用电脑操作。</p></blockquote><p>如果你是macOS用户，我推荐Safari+iPhone的组合，Safari可以用iPhone手机作为你的mac摄像头进行拍照，完美解决上述问题。</p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>如果资料通过后，应该是<strong>紫色</strong>的 <code>approved</code> , 等72个小时后就转绿成功了。</p><p>P.S.<br>Github Copilot 要自己申请的，直接 sign up for free trail(不会扣款的)，如果你认证成功的话。</p><h2 id="致谢"><a href="#致谢" class="headerlink" title="致谢"></a>致谢</h2><p><a href="https://github.com/Nagi-ovo/CHSI-Converter">CHSI-Converter</a> 及其作者 <a href="https://github.com/Nagi-ovo">Nagi-ovo</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;为了copilot的使用自由，趁着放假闲来无事想折腾一下免费的GPT-4，随即查了一下相关资料就开搞。&lt;/p&gt;
+&lt;p&gt;感觉网络上的资料时效性</summary>
+      
+    
+    
+    
+    <category term="折腾记" scheme="https://jackeyzzz12138.github.io/categories/%E6%8A%98%E8%85%BE%E8%AE%B0/"/>
+    
+    
+    <category term="折腾" scheme="https://jackeyzzz12138.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="github student pack" scheme="https://jackeyzzz12138.github.io/tags/github-student-pack/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hackergame2023 writeup</title>
+    <link href="https://jackeyzzz12138.github.io/2023/11/04/wp01/"/>
+    <id>https://jackeyzzz12138.github.io/2023/11/04/wp01/</id>
+    <published>2023-11-04T05:03:33.000Z</published>
+    <updated>2023-12-29T07:43:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>当前分数：1150， 总排名：668 &#x2F; 2381<br>AI：0 ， binary：0 ， general：850 ， math：0 ， web：300</p><blockquote><p>hackergame结束了，上一周不想写WP(忙着玩OW，这一周正好把WP写写。</p></blockquote><p>一🐦今年都要结束了，是时候整理一下今年还屯的素材了，整理了一下没有写的WP吧。（尽管当时的做题思路已经录下来了。。。还是记录一下吧，虽然事情很多（<del>其实就是菜</del>，但是比赛不能白玩，希望hackergame越办越好！</p><p><img src="/blog/wp01/image.png" alt="菜就多练.jpg"></p><h2 id="题目-按照首字母顺序排序"><a href="#题目-按照首字母顺序排序" class="headerlink" title="题目 (按照首字母顺序排序)"></a>题目 (按照首字母顺序排序)</h2><h3 id="虫"><a href="#虫" class="headerlink" title="虫"></a>虫</h3><p>根据题目提示进行搜索，了解到关键词robot36 -&gt; SSTV<br>发现是可以通过音频转图像的，<br>找到了这几个仓库<a href="https://github.com/xdsopl/robot36">robot36</a>编译了半天，发现转不了<br><a href="https://github.com/colaclanth/sstv">SSTV</a>然后安装完成直接解决。<br>还是思路重要，还有RX-SSTV(不过没试过，感兴趣的可以试一下)</p><div style="text-align:center;"><!-- ![sstv](/blog/wp01/WechatIMG36.jpg) -->  <img src="/blog/wp01/WechatIMG36.jpg" alt=sstv width=50% height=50%></div><h3 id="更深更暗"><a href="#更深更暗" class="headerlink" title="更深更暗"></a>更深更暗</h3><p>直接浏览器开发者工具搜就完事了</p><div style="text-align:center">  <img src="/blog/wp01/gsga.png" alt=更深更暗flag width=50% height=50%></div><h3 id="旅行日记"><a href="#旅行日记" class="headerlink" title="旅行日记"></a>旅行日记</h3><p>又到了哥们最喜欢的社工题了，</p><h4 id="1"><a href="#1" class="headerlink" title="1"></a>1</h4><p>首先上来给了张飞机的图片，开始以为是找航班，（去年就是找航班），两个问题：找到与学长见面的日子，找到物理学诺奖得主出生最晚（最年轻 &#x3D;&#x3D; 年龄最小）的 研究所的缩写（获奖时）。  </p><p>第一个问题从大喷泉的活动入手，先定位位置。然后找一下发生了什么活动。 已知东京大学，通过拉面馆开始定位毕竟是步行，走不了太远（，那么就可以顺理成章的找到上野公园大喷园，然后，找到官网，翻阅过往活动。开始找到的是活动1，结果发现时间不太符合，然后通过谷歌识图找到了这个白棚子的活动，好像是一个<a href="https://prtimes.jp/main/html/rd/p/000000035.000021306.html">梅酒的品尝活动</a>，然后找到了活动区间，此处就可以依次尝试日期了。</p><p><img src="/blog/wp01/%E4%B8%8A%E9%87%8E%E5%85%AC%E5%9B%AD%E5%A4%A7%E5%96%B7%E6%B0%B4.jpg?30" alt="定位地点"></p><p><img src="/blog/wp01/%E6%8B%9B%E5%8B%9F%E5%8F%82%E5%8A%A0%E8%80%85.png?30" alt="活动1"></p><p><img src="/blog/wp01/%E6%A2%85%E9%85%92%E6%B4%BB%E5%8A%A8.png?20" alt="活动2"></p><p><img src="/blog/wp01/%E6%97%B6%E9%97%B4.png?50" alt="活动2时间"></p><p>第二个问题是从诺贝尔奖得主入手，是东大的小柴昌俊（诺贝尔物理学奖2002）-》 Konstantin Novoselov，然后就找诺奖获得主的生平就行了，注意题干的限制条件还是挺多的，注意筛选就行了。</p><p><img src="/blog/wp01/%E7%AC%AC2%E9%A2%98.png" alt="第二题"></p><h4 id="2"><a href="#2" class="headerlink" title="2"></a>2</h4><p>第一题找到相关活动就不难了，自己找一下就行了</p><p>第二题不难找出博物馆其实就是喷泉旁的东京国立博物馆，在官网就可以找出票价的信息，<del>大学生不应该是半价吗话说</del>，但是最后答案错误，我试了个0就对了。</p><h4 id="3"><a href="#3" class="headerlink" title="3"></a>3</h4><p>第三题我只通过马里奥的照片找到了位置 <code>东京涩谷parco</code> ，别的我就不知道了。<br><a href="https://github.com/USTC-Hackergame/hackergame2023-writeups/blob/master/official/%E6%97%85%E8%A1%8C%E7%85%A7%E7%89%87%203.0/README.md">官网WP</a></p><h3 id="猫咪小测"><a href="#猫咪小测" class="headerlink" title="猫咪小测"></a>猫咪小测</h3><h4 id="1-1"><a href="#1-1" class="headerlink" title="1"></a>1</h4><p><strong>善用搜索引擎</strong>，下意识的找中科大图书馆官网，然后搜索书名，找到位置了，那么就得知道图书馆的楼层分布了，同样可以查到。</p><p><img src="/blog/wp01/book.png?20" alt="书的页面"></p><p><img src="/blog/wp01/distribution.png?30" alt="楼层分布"></p><h4 id="2-1"><a href="#2-1" class="headerlink" title="2"></a>2</h4><p>在 arxiv 上搜索，可以找到论文，那么搜索一下就行了。</p><p><img src="/blog/wp01/arxiv.png?30" alt="arxiv"></p><p><img src="/blog/wp01/paper.png?30" alt="paper"></p><h4 id="3-1"><a href="#3-1" class="headerlink" title="3"></a>3</h4><p>说实话我看都不懂，但GPT会，所以这道题感谢GPT！</p><h4 id="4"><a href="#4" class="headerlink" title="4"></a>4</h4><p>这道题做出来有点运气成分，因为用关键词检索并没有找到完全相关的内容，一度想要放弃的时候，我想起了CCF推荐会议列表。中科大总不可能发C会吧（，于是我直接填b会第一个就拿下了。。。<br>这个是我找到的论文</p><p><img src="/blog/wp01/miao.png" alt="paper"></p><h3 id="赛博井字棋"><a href="#赛博井字棋" class="headerlink" title="赛博井字棋"></a>赛博井字棋</h3><p>首先尝试自己下，然后发现下不过，了解了一下井字棋的来龙去脉后发现，原来最多就能下个平局，忘记了是个web题，<br>然后抓包嘛，试过更改json发现服务器那边根本不认识构造的json，然后无意中的尝试发现，可以通过修改post内容使自己的棋子<strong>下在同一个格子里</strong>，但是对手（AI）仍然会下在其他地方，最后构造出三子连线就OK了。</p><p><img src="/blog/wp01/%E6%8A%93%E5%8C%85.png" alt="抓包"></p><h3 id="组委会"><a href="#组委会" class="headerlink" title="组委会"></a>组委会</h3><p>这道题当时的思路是，用 selenium 写脚本，但是总会有几个flag撤回超时，看到大家的WP，大部分直接写JS脚本，我JS太差了，看来要好好学js了。。</p><p><a href="https://github.com/USTC-Hackergame/hackergame2023-writeups/blob/master/official/%E7%BB%84%E5%A7%94%E4%BC%9A%E6%A8%A1%E6%8B%9F%E5%99%A8/README.md">官方WP</a></p><h3 id="Git-git"><a href="#Git-git" class="headerlink" title="Git? git!"></a>Git? git!</h3><p>一道似曾相识的题目了。</p><p>关键是 <code>git reflog</code> 可能会有你的commit记录，通过这个记录，在通过 reset 直接还原找到flag文件！</p><p><img src="/blog/wp01/gitwp.png" alt="GIT"></p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>虽然很菜，但hackergame很好玩，希望中科大越办越好吧！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;当前分数：1150， 总排名：668 &amp;#x2F; 2381&lt;br&gt;AI：0 ， binary：0 ， general：850 ， math</summary>
+      
+    
+    
+    
+    <category term="WP" scheme="https://jackeyzzz12138.github.io/categories/WP/"/>
+    
+    
+    <category term="wp" scheme="https://jackeyzzz12138.github.io/tags/wp/"/>
+    
+    <category term="CTF" scheme="https://jackeyzzz12138.github.io/tags/CTF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>paper 读后感</title>
+    <link href="https://jackeyzzz12138.github.io/2023/10/07/paper/"/>
+    <id>https://jackeyzzz12138.github.io/2023/10/07/paper/</id>
+    <published>2023-10-07T08:12:35.000Z</published>
+    <updated>2023-10-07T08:12:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>之前有想过，把论文总结搬运过来的，但是想到工程量有点大(<del>懒</del>)，还是继续在notion写吧，<a href="https://0x114514.notion.site/paper-summarize-dd7f497a7c2c4ea0bb2ea1016a8cf919?pvs=4">Paper summary</a>。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;之前有想过，把论文总结搬运过来的，但是想到工程量有点大(&lt;del&gt;懒&lt;/del&gt;)，还是继续在notion写吧，&lt;a href=&quot;https://0x114514.notion.site/paper-summarize-dd7f497a7c2c4ea0bb2ea1016a8</summary>
+      
+    
+    
+    
+    <category term="读书人的事" scheme="https://jackeyzzz12138.github.io/categories/%E8%AF%BB%E4%B9%A6%E4%BA%BA%E7%9A%84%E4%BA%8B/"/>
+    
+    
+    <category term="academic" scheme="https://jackeyzzz12138.github.io/tags/academic/"/>
+    
+    <category term="paper" scheme="https://jackeyzzz12138.github.io/tags/paper/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>闲聊 00</title>
+    <link href="https://jackeyzzz12138.github.io/2023/10/02/realtalk00/"/>
+    <id>https://jackeyzzz12138.github.io/2023/10/02/realtalk00/</id>
+    <published>2023-10-02T08:25:25.000Z</published>
+    <updated>2023-10-05T02:59:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>由于是一个闲聊post，不太想用大标题，小标题这种格式化的东西了，大概是暑假之前搭建了这个博客，本意是想记录一下自己平时瞎折腾的内容，怕自己以后忘记了，其实这个东西一直想写，但是或多或少被一些无所谓的琐事给逐渐耽搁了，那就趁着这次过节假期聊一下最近发生了什么事。本意是想写一大段鸡汤，想着激励一下自己，但是当代人可能大多不缺少鸡汤甚至有点抵制这个东西，那就不如想到哪写到哪，记录一篇纯意识流<em>流水账</em>这样。</p></blockquote><p>最近自己有两个大事，第一个事情是想要考IELTS，第二个事情是修改目前手头上的两篇文章，但是创新点不足的问题可能很难发表到好的期刊会议上，所以目前暂时想法是加一些 <code>因果推理</code> 相关的内容来充实文章，最近自己也在自学相关的知识。由于放假了的因素和自己内心的浮躁，最近的效率也不太高。</p><h2 id="因果推理"><a href="#因果推理" class="headerlink" title="因果推理"></a>因果推理</h2><p>先聊一下，因果推理。因果推理怎么使用在当下较火的深度学习或机器学习领域是老师一直想让我做的，但是听到同辈们对这个领域的唱衰和说它很难，也使我打了退堂鼓。在自己所谓 <code>感兴趣</code> 的领域捣鼓了很久，最终出来的成果也不尽人意，CS领域技术迭代之快，让我这个以前的外行人瞠目结舌。可能自己做的东西已经有人做过了或者已经不够“新”了。面对自己写的像shit的paper，也不知道该何去何从，当导师依旧给我推荐causal inference 这个领域，所以最近自己的重点一心扑在了causal inference上，希望自己的付出能给我一点回报吧。那为啥最近突然醒悟了呢？其实某些时候感觉自己是个精分的人，有时候感觉自己能干成一件事，觉得自己很nb，有时候觉得自己又很菜，大多时候在这两种状态进行摇摆。再加上身边奇怪的氛围，貌似所有人都想提前发论文来获取scholarship，这没错，我也认为一个team或者一个大的集团，适当的竞争是没错的，但是大部分人只是为了图”快“，而忽略了自己论文的质量(我不否认自己有时候也陷入了这种误区)。当然，他们就说水文这么多，不差这一篇，那我只能说“你说的对咯”。所以在这种奇怪的氛围中度过的第一年，而且在这种奖学金并没有全覆盖的学校，让我深深知道了什么是<strong>劣币驱逐良币</strong>。<br>说回因果推理，最近看了很多相关的综述，和微软研究院的相关作品。不由得对这些真正的scientists产生了由衷的敬佩。写到这里想到了 <code>Coldplay-scientist</code> ，尽管并不是写给scientist的歌，但我觉得这首歌还是蛮契合scientist的主题的。因果推理中有很多概念，backdoor，frontdoor，SCM，confounders有些是真的理解了，有些仍未理解，但是我很钦佩这些能够从事物的关联性发现这些因果关系的科学家，我觉得只有他们是真的academic，其实换句话想，如果没有来到这，我可能这辈子都不会读到这些东西了。人生也像因果图一般，我们在做研究时要尽力做到随机和避免confounders的干扰，才能得到一个准确的结论。但是有时候实验并不能做两次，就像人生不可能既要又要。当然life远比这些复杂，目前所接触的这些东西和人的decision相比都是 <code>too young too naive</code> 。</p><h2 id="IELTS"><a href="#IELTS" class="headerlink" title="IELTS"></a>IELTS</h2><p>再聊一下考ILETS的事情吧，出国是个梦想，但也可能是个妄想。或许现在没有什么雄心壮志说我要给科研事业添砖加瓦，所以仅仅是为了提升学历。那么也毫不害臊的说，到现在为止几乎没啥准备，之前的背单词现在也抛到脑后了，目前的英语训练全靠日常刷Youtube和看paper。不知道为什么，自己在做人生所谓的重大选择时总是会犹豫，或许是遗传？或许是性格使然？不过原因目前无所谓了，目前的想法是搞几篇论文然后申请一波，之前一直没给过多少人讲过这个，因为我害怕自己没成功会被嘲笑，但是每次说不在意别人眼光实际上还是会在意的。这次想就直接写在blog吧，反正应该没人看吧。互联网上的网页这么多，如果看到了或许你能留个言，朋友？所以在决定之前，当下的事情是把论文拿下。</p><h2 id="人间观察-叨逼叨"><a href="#人间观察-叨逼叨" class="headerlink" title="人间观察+叨逼叨"></a>人间观察+叨逼叨</h2><p>再聊一下我的一些观察吧，感觉国内CS的教育有点陈旧或者安排上很奇怪，之前没少在csdiy学习的时候感觉，当然名校的作业又多又难(这里点名ucberkeley cs61a)，所以我极其建议CS的学生能够尽早接触国外的优质课程，从而减少在一些 <code>无用课程</code> 上浪费时间。</p><blockquote><p>(当然南大jyy老师的OS课是真的不错，这里安利一波)</p></blockquote><p>有时候让为在视野上有时候也会感受到硬伤，但是这个是自己无法改变的，或者说一部分是由家庭决定的，说到底就是个小镇做题家而已，但是很喜欢室友说的一句话“目前学历往上卷还是很有用的”，我其实蛮佩服他的，能通过自己后期培养的意识知道这些我觉得就已经很不容易了。</p><p>还有父母，父母这个角色我认为是世界上最难的角色，有时候我能理解他们，有时候我也是不能理解他们。他们给予我很多帮助，这个必须得承认，但是有时候做了错事，还要搪塞一句“都是为了你好，父母不会害你之类的话”就很奇怪了。我在这里并不像埋冤或者点名批评谁谁谁，写到这里单纯是为了记录，我认为世界上应该有同样的人遇到同样的事情所以就说了一嘴，没办法在他们局限的视野里可能这些就是所谓的“爱”吧。</p><p>最近很喜欢看TIM的视频，视频质量很高，以前一直以为影视飓风的风格太垂了所以没怎么接触过，看了几期视频后觉得这个真的是用心做视频的人，很敬佩。</p><p>写到这里，理应该结束了，因为我实在想不到该写啥了，所以就感谢这段时间一直打篮球的朋友兄弟们吧，即使学业上没进展，但是身体健康了是吧🥲</p><p>OK不说了，打OW去了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;由于是一个闲聊post，不太想用大标题，小标题这种格式化的东西了，大概是暑假之前搭建了这个博客，本意是想记录一下自己平时瞎折腾的内容，怕自己以后忘记了，其实这个东西一直想写，但是或多或少被一些无所谓的琐事给逐渐耽搁了，那就趁着这次过节假期聊一下最近</summary>
+      
+    
+    
+    
+    <category term="心灵🐔🥣" scheme="https://jackeyzzz12138.github.io/categories/%E5%BF%83%E7%81%B5%F0%9F%90%94%F0%9F%A5%A3/"/>
+    
+    
+    <category term="just for fun" scheme="https://jackeyzzz12138.github.io/tags/just-for-fun/"/>
+    
+    <category term="图一乐" scheme="https://jackeyzzz12138.github.io/tags/%E5%9B%BE%E4%B8%80%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录某夏令营结营CTF的write up</title>
+    <link href="https://jackeyzzz12138.github.io/2023/09/01/wp00/"/>
+    <id>https://jackeyzzz12138.github.io/2023/09/01/wp00/</id>
+    <published>2023-09-01T07:34:39.000Z</published>
+    <updated>2023-10-02T07:46:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h2><p>暑假参加了某网安相关的夏令营，想着<strong>把最近手头上的事</strong>忙完了后把最后结营的CTF的Write up 写一下，现在人在高铁上也睡不着不如能写一部分是一部分吧。其实题目都是原题，就权当记录一下WP和解题过程，所以大佬就别看了- -可能有点浪费你们的时间，当然欢迎讨论。</p><h2 id="MISC"><a href="#MISC" class="headerlink" title="MISC"></a>MISC</h2><h3 id="doge"><a href="#doge" class="headerlink" title="doge"></a>doge</h3><!-- ![一张可爱的doge图片](/blog/wp00/ctf-example.png) --><div style="text-align:center;">  <img src="/blog/wp00/ctf-example.png" alt='一张可爱的doge图片' width="60%" height="60%" ></div><p>这是一个misc题自然而然的想到用binwalk或hex编辑器来查看图片内容，对于这道题来说当然是一无所获，之后祭出我们的神器stegsolve，其实刚开始我自己做是没发现的，但其实这道题的结果隐藏在其他不同的通道中。</p><!-- ![stegsolve查看其他通道的结果](/blog/wp00/捕获.PNG) --><div style="text-align:center;"><img src="/blog/wp00/捕获.PNG" alt='stegsolve查看其他通道的结果' width="60%" height="60%" ></div><p>这道题的来源：<a href="https://github.com/hackerclub/writeups/blob/master/plaidctf-2014/doge_stege/WRITEUP-pipecork.md">点击链接</a></p><hr><h3 id="教练，我想打CTF"><a href="#教练，我想打CTF" class="headerlink" title="教练，我想打CTF"></a>教练，我想打CTF</h3><!-- ![很经典的图片](/blog/wp00/flag.png) --><div style="text-align:center;">  <img src="/blog/wp00/flag.png" alt='很经典的图片' width="60%" height="60%" ></div><p>这个也是原题，网络上一堆解法，但是作为misc题也算是十分经典且难度中等了。这个题的关键是图片中有一个压缩包，将其分离解压后发现是一个可以在linux下执行的程序，将之执行即可得到flag，所以这道题的大致思路为：</p><blockquote><p>相关工具的使用方法自己 -h 查看</p></blockquote><ol><li>使用 <code>binwalk</code> 查看图片的内容<ul><li>这道题我还使用相关工具查看了其16进制，没有看出来有用的讯息</li></ul></li><li>使用 <code>foremost</code> 分离出图片的文件(binwalk也支持分离文件，看个人爱好)</li><li>以这道题为例，最重要的是将分离的压缩包进行解压得到那个程序，别的题目可能会分离出其他的东西</li><li>针对这道题为例，可以通过解压压缩包后得到可以得到flag的执行程序(记得提升权限)</li></ol><p>队友提交flag后出错，我开始以为主办方可能修改了flag或者设置了假flag，开始考虑是不是图片长宽不够的原因。还使用了网络上的CRC检验脚本，这里也贴出来。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> os<br><span class="hljs-keyword">import</span> binascii<br><span class="hljs-keyword">import</span> struct<br><br>crcbp = <span class="hljs-built_in">open</span>(<span class="hljs-string">&quot;flag.png&quot;</span>, <span class="hljs-string">&quot;rb&quot;</span>).read()    <span class="hljs-comment">#打开图片</span><br><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">2000</span>):<br>    <span class="hljs-keyword">for</span> j <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">2000</span>):<br>        data = crcbp[<span class="hljs-number">12</span>:<span class="hljs-number">16</span>] + \<br>            struct.pack(<span class="hljs-string">&#x27;&gt;i&#x27;</span>, i)+struct.pack(<span class="hljs-string">&#x27;&gt;i&#x27;</span>, j)+crcbp[<span class="hljs-number">24</span>:<span class="hljs-number">29</span>]<br>        crc32 = binascii.crc32(data) &amp; <span class="hljs-number">0xffffffff</span><br>        <span class="hljs-keyword">if</span>(crc32 == <span class="hljs-number">0x7A5A2BA</span>):    <span class="hljs-comment">#图片当前CRC</span><br>            <span class="hljs-built_in">print</span>(i, j)<br>            <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;hex:&#x27;</span>, <span class="hljs-built_in">hex</span>(i), <span class="hljs-built_in">hex</span>(j))<br></code></pre></td></tr></table></figure><p>最后发现是队友flag敲错了- - </p><hr><h3 id="64-0"><a href="#64-0" class="headerlink" title="64.0"></a>64.0</h3><p>通过强大的搜索能力，发现这道题的来源是实验吧的一道题。这道题给的文件一打开即为损坏，使用经典的二进制编辑器查看发现缺少文件头，这里添加 <code>GIF98a</code> ，添加完成后有两种情况，队友在010editor中添加后发现仍然打不开，我在记事本中添加后可以打开，打开后生成正确的GIF图片。</p><!-- ![复原图片](/blog/wp00/64ge.png) --><div style="text-align:center;">  <img src="/blog/wp00/64ge.png" alt='复原图片' width="50%" height="50%" ></div><p>然后可以发现是一个小黄人在 <code>8 ✖️ 8</code> 的棋盘上不断出现，使用工具分离出gif的每一帧，由题目可知每一个格子代表一个数字，分别从0-63，找到对应的ASCII码，然后得到flag提交，一把梭。</p><!-- ![如图](/blog/wp00/截图.png) --><div style="text-align:center;"><img src="/blog/wp00/截图.png" alt='如图' width="50%" height="50%" ></div><h3 id="MIMI"><a href="#MIMI" class="headerlink" title="MIMI"></a>MIMI</h3><p>这道题给了一个卡农的音乐mp3文件，开始猜测是音乐的隐写题，放到AU甚至其他工具里发现不是波形的问题，寻找其他解法时找到了这个东西，这里用到了MP3stego这个工具，这个工具也有点坑，在复现的时候<strong>一定要</strong>注意路径是否正确，使用Canon作为decode密码后，完成之后可以得到一串字符，这个就是zip的密码。</p><p>解压压缩包后发现里面是类似的乱码，猜测可能是png文件，发现缺少PNG文件头，使用脚本补上。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> base64<br><br><span class="hljs-keyword">def</span> <span class="hljs-title function_">foo</span>():<br>    f = <span class="hljs-built_in">open</span>(<span class="hljs-string">r&#x27;.\/pic_png.txt&#x27;</span>).read()<br>    fsave = <span class="hljs-built_in">open</span>(<span class="hljs-string">&#x27;pic.png&#x27;</span>, <span class="hljs-string">&#x27;wb&#x27;</span>)<br>    addHeader = <span class="hljs-built_in">bytes</span>.fromhex(<span class="hljs-string">&quot;89504E470D0A1A0A&quot;</span>)<br>    fsave.write(addHeader)<br>    fsave.write(base64.b64decode(f))<br>    fsave.close()<br><br><span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&#x27;__main__&#x27;</span>:<br>    foo()<br>    <span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;ok&#x27;</span>)<br></code></pre></td></tr></table></figure><!-- ![txt文件](/blog/wp00/mimi.png) --><div style="text-align:center;">  <img src="/blog/wp00/mimi.png" alt="txt文件" width="50%" height="50%"></div><!-- ![flag](/blog/wp00/mimi_flag.png) --><div style="text-align:center;">  <img src="/blog/wp00/mimi_flag.png" alt="flag" width="40%" height="40%"></div><h2 id="crypto"><a href="#crypto" class="headerlink" title="crypto"></a>crypto</h2><h3 id="code"><a href="#code" class="headerlink" title="code"></a>code</h3><p>一道crypto题，但是感觉有点杂项，队友解到一半没有思路了，貌似是强网杯的一道题的思路简化版。题目给了这个文件</p><!-- ![code.txt](/blog/wp00/code.png) --><div style="text-align:center;">  <img src="/blog/wp00/code.png" alt="code.txt" width="50%" height="50%"></div><p>不用多想，就是base64加密嘛，解谜后得到的全是1 0组合的字符文件，遂即傻眼了，如果把1看成黑，0看成白（可能正好相反），通过python脚本</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><code class="hljs python"><span class="hljs-keyword">import</span> PIL<br><span class="hljs-keyword">from</span> PIL <span class="hljs-keyword">import</span> Image<br><br>MAX = <span class="hljs-number">256</span> <span class="hljs-comment"># max尺寸 = 你文件字符数的平方根</span><br>img = Image.new(<span class="hljs-string">&quot;RGB&quot;</span>,(MAX,MAX)) <br>i = <span class="hljs-number">0</span><br><span class="hljs-built_in">str</span> = <span class="hljs-built_in">open</span>(<span class="hljs-string">&#x27;./01.txt&#x27;</span>).read()<br><br><span class="hljs-keyword">for</span> x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(MAX):<br>    <span class="hljs-keyword">for</span> y <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(MAX):<br>        <span class="hljs-keyword">if</span>(<span class="hljs-built_in">str</span>[i] == <span class="hljs-string">&#x27;1&#x27;</span>):<br>            img.putpixel([x,y],(<span class="hljs-number">0</span>,<span class="hljs-number">0</span>,<span class="hljs-number">0</span>))<br>        <span class="hljs-keyword">else</span>:<br>            img.putpixel([x,y],(<span class="hljs-number">255</span>,<span class="hljs-number">255</span>,<span class="hljs-number">255</span>))<br>        i = i+<span class="hljs-number">1</span><br>img.show()<br>img.save(<span class="hljs-string">&quot;result.png&quot;</span>)<br></code></pre></td></tr></table></figure><p>可以生成一张二维码图，之前打CISCN的时候有一道题类似，好像是麻将题，下次可以聊聊这道题。</p><p>生成二维码后一扫就知道flag了！</p><h2 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h2><p>这篇文章从9月初拖到现在才写完，拖延症要命捏。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Intro&quot;&gt;&lt;a href=&quot;#Intro&quot; class=&quot;headerlink&quot; title=&quot;Intro&quot;&gt;&lt;/a&gt;Intro&lt;/h2&gt;&lt;p&gt;暑假参加了某网安相关的夏令营，想着&lt;strong&gt;把最近手头上的事&lt;/strong&gt;忙完了后把最后结营的CTF的Wr</summary>
+      
+    
+    
+    
+    <category term="WP" scheme="https://jackeyzzz12138.github.io/categories/WP/"/>
+    
+    
+    <category term="wp" scheme="https://jackeyzzz12138.github.io/tags/wp/"/>
+    
+    <category term="CTF" scheme="https://jackeyzzz12138.github.io/tags/CTF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈DNS</title>
+    <link href="https://jackeyzzz12138.github.io/2023/08/14/%E6%8A%98%E8%85%BE%E8%AE%B0-04/"/>
+    <id>https://jackeyzzz12138.github.io/2023/08/14/%E6%8A%98%E8%85%BE%E8%AE%B0-04/</id>
+    <published>2023-08-14T03:41:50.000Z</published>
+    <updated>2023-11-03T01:49:12.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>用校园网访问某 <code>.cn</code> 后缀网站，浏览器报错 <code>链接已重置</code> ，百思不得其解，明明前几天还能够访问的，随即翻看网络工具的访问记录，排除了网络断开等其他问题，随即用命令行工具对网站域名进行ping的测试。<br><img src="/img/ping_result.png" alt="ping_result"></p><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p>根据报错信息，我又尝试了nslookup，发现校园网的DNS解析不了，但是公共DNS服务器能够解析成ip并且能够成功访问，所以为了解决这个问题就很简单了，但是如果仅仅是为了解决这个问题，这个博客的含金量就太低了🌝，由于我的windows和mac都使用的clash内核的网络工具，有没有方法能够直接通过修改配置文件来统一多端呢？</p><p>接下来让我们了解一下Clash DNS的配置，具体请在它的<a href="https://dreamacro.github.io/clash/">Wiki</a>进行了解，<a href="#%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99">参考资料</a>里列出的博客文章也有对不同情况下DNS解析的介绍，十分详细，如果你和我一样愿意<strong>折腾</strong>，我也推荐你看看。Clash 的redir-host 模式也因为要进行两次DNS解析，在某个版本后就不再支持了。所以现在较新的Clash内核版本已经不支持redir-host了，因为fake-ip能减少一次dns查询的时间，加快网络访问速度。那么我编辑了我配置文件的dns，然而并没有恢复正常访问。这时候我们就要了解一下Clash工具的分流机制了，实际上，如果你访问的域名是直连的情况，那么他的dns解析都是在本地进行，也并不会根据你配置文件里指定的dns来进行解析（再加上我平时不使用增强模式TUN），只有走PROXY的情况下，才会到远程服务器进行域名解析和访问。我目前遇到的问题就是直连无法访问并且nslookup查询不到ip，但是PROXY下就可以。 </p><p>所以解决方法有很多：</p><h2 id="更换系统DNS"><a href="#更换系统DNS" class="headerlink" title="更换系统DNS"></a>更换系统DNS</h2><p>这里以macos为例，Windows的帖子很多。在系统层面更改一个DNS服务器就可，比如<code>223.5.5.5</code> 或 <code>119.29.29.29</code><br><img src="/img/DNS_fix.png" alt="DNS_fix"><br>这里换成了阿里和腾讯的公共DNS，解决了问题。（但是之后即便是这种公共DNS也同样遇到了问题，后面讲）</p><h2 id="一劳永逸的方法"><a href="#一劳永逸的方法" class="headerlink" title="一劳永逸的方法"></a>一劳永逸的方法</h2><p>直接在你的YAML文件里加入</p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-bullet">-</span> <span class="hljs-string">DOMAIN,你本地访问有问题的url,PROXY</span><br></code></pre></td></tr></table></figure><p>虽然我加入了这一条代码暂时解决了问题，但是明明可以直连访问的网站却需要PROXY属实让我不爽，为了明白原因决定继续折腾。</p><h2 id="最后一天的发现"><a href="#最后一天的发现" class="headerlink" title="最后一天的发现"></a>最后一天的发现</h2><p>经身边朋友测试，和该网站的反馈的得知，确实有部分人的公司网络和我一样无法访问，但是家里就可访问，经过大多数人讨论得出就是DNS的原因，但是我在今天测试时发现大多数公共DNS都无法解析该域名，而且我用两台电脑都直连访问，macos仍然连接重置但是另一台Windows可以正常访问（在同一个局域网下），在AI和其他帖子的帮助下得知可能是本地DNS缓存的原因，果然DNS刷新后再重启就好了。。。<br>之后继续跟踪是否是这方面的原因，这里贴一下DNS刷新的命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo dscacheutil -flushcache<br>sudo killall -HUP mDNSResponder<br></code></pre></td></tr></table></figure><h2 id="意外收获"><a href="#意外收获" class="headerlink" title="意外收获"></a>意外收获</h2><p>发生这个事之后我同样对Clash的进行了一定程度的了解，之前一直以为filter只能在proxy-providers里使用，<em><strong>但是发现Clash内核已经支持Proxy-Group支持基于正则的filter</strong></em>，方便了自定义地区的策略组了。之后打算更新一期Clash Premium内核的配置文件模版吧，可能也会🐦，就先写到这里了。</p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><ul><li><a href="https://github.com/Dreamacro/clash/issues/2386">Github Issue</a></li><li><a href="https://blog.skk.moe/post/what-happend-to-dns-in-proxy/">浅谈在代理环境中的 DNS 解析行为</a></li><li><a href="https://blog.skk.moe/post/i-have-my-unique-dns-setup/">我有特别的 DNS 配置和使用技巧</a></li><li><del><a href="https://github.com/Fndroid/clash_for_windows_pkg/wiki/DNS%E6%B1%A1%E6%9F%93%E5%AF%B9Clash%EF%BC%88for-Windows%EF%BC%89%E7%9A%84%E5%BD%B1%E5%93%8D">DNS污染对Clash（for Windows）的影响</a></del> 用web archive看吧</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;用校园网访问某 &lt;code&gt;.cn&lt;/code&gt; 后缀网站，浏览器报错 &lt;code&gt;链接已重置&lt;/code&gt; ，百思不得其解，明明前几天还能</summary>
+      
+    
+    
+    
+    <category term="折腾记" scheme="https://jackeyzzz12138.github.io/categories/%E6%8A%98%E8%85%BE%E8%AE%B0/"/>
+    
+    
+    <category term="网络" scheme="https://jackeyzzz12138.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="折腾" scheme="https://jackeyzzz12138.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Latex (macOS basictex) 的折腾始末</title>
+    <link href="https://jackeyzzz12138.github.io/2023/07/24/%E6%8A%98%E8%85%BE%E8%AE%B0-03/"/>
+    <id>https://jackeyzzz12138.github.io/2023/07/24/%E6%8A%98%E8%85%BE%E8%AE%B0-03/</id>
+    <published>2023-07-24T04:46:32.000Z</published>
+    <updated>2023-07-30T07:59:43.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h2><p>最近跑了个几个实验，随即该写写论文了，正巧今天出去玩了，回来懒得写论文就搞一下博客吧👀</p><p>由于自用的是丐版256G的macbook air，不想下载体积巨大的mactex，查阅了一下相关资料有basic tex这种小体积的，好像才60+M，就是不能开箱即用，要用包管理器自己下载很多package，最近在使用IEEE的论文模版，那就把相关的坑填一下。</p><h2 id="折腾过程"><a href="#折腾过程" class="headerlink" title="折腾过程"></a>折腾过程</h2><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>这个就不多说了：</p><ul><li><code>basictex</code>是肯定得要得。</li><li>根据你自己喜好选择一个编辑器，可以是<em>sublime</em>，<em>vscode</em> ，我用的是<strong>texifier</strong>（原来叫texpad），不为啥就是感觉好看。（如果你选择texifier它软件可以自己配一个latex环境，是否还在本地下载相关的tex环境取决你）。</li><li>然后选择一个可视化的包管理器吧，当然你很喜欢命令行并且愿意Google的话可以不用应该，我反正下载了个<code>tex live utility</code>，<del>最近要写文章还是收敛了一下折腾欲</del>。</li></ul><h3 id="然后就是下载论文模版"><a href="#然后就是下载论文模版" class="headerlink" title="然后就是下载论文模版"></a>然后就是下载论文模版</h3><p>IEEE的论文模版怎么下载网上一大堆教程，这里不细讲。</p><p>如果你已经下载好basictex的话，首先执行一下这个命令</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo tlmgr update --self --all<br></code></pre></td></tr></table></figure><h3 id="当你打开它时"><a href="#当你打开它时" class="headerlink" title="当你打开它时"></a>当你打开它时</h3><p>你会发现，编译不了，原来是缺少package啊，这是观察报错的log，我几乎在stackexchange找到了几乎所有的报错的解决方法，当然肯定不是每一种方法都能对你奏效，我到现在也无法保证我的环境一定配好了。</p><p>但是，大体上是这几类报错：</p><h4 id="Q0-没有IEEEtran？"><a href="#Q0-没有IEEEtran？" class="headerlink" title="Q0:没有IEEEtran？"></a>Q0:没有IEEEtran？</h4><p>下一个呗！打开你的tex live utility，直接搜索ieeetran下载安装即可。or</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo tlmgr install ieeetran<br></code></pre></td></tr></table></figure><h4 id="Q1-缺少什么什么xxxx-sty-或者-直接说什么-package？"><a href="#Q1-缺少什么什么xxxx-sty-或者-直接说什么-package？" class="headerlink" title="Q1:缺少什么什么xxxx.sty 或者 直接说什么 package？"></a>Q1:缺少什么什么xxxx.sty 或者 直接说什么 package？</h4><p>这就简单了，直接找到你缺的是什么包，网上查一查不难，大多就是报错的那个名字，直接install就好了。<br>可以在<code>*.tex</code>文件的前几行代码找到这篇文档用的是哪些package，看一下星号里填的是什么，下就完了。</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs tex"><span class="hljs-keyword">\usepackage</span>&#123;*********&#125;<br></code></pre></td></tr></table></figure><p>就我的经验而言，我下载了以下包（远远不止这些，有的是用那个包管理器下载的）：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo tlmgr install algorithmic<br>sudo tlmgr install algorithms<br>sudo tlmgr install rsfs<br></code></pre></td></tr></table></figure><p>查的话给几个小建议，<a href="https://www.ctan.org/">CTAN</a>或者 stackexhcange直接搜你遇到的问题。</p><h4 id="Q2-当你下载完了所有的包时，编译的时候你会发现，诶？为啥pdflatex编译会报错，xelatex可以呢？🧐"><a href="#Q2-当你下载完了所有的包时，编译的时候你会发现，诶？为啥pdflatex编译会报错，xelatex可以呢？🧐" class="headerlink" title="Q2: 当你下载完了所有的包时，编译的时候你会发现，诶？为啥pdflatex编译会报错，xelatex可以呢？🧐"></a>Q2: 当你下载完了所有的包时，编译的时候你会发现，诶？为啥pdflatex编译会报错，xelatex可以呢？🧐</h4><p>那么我们来了解一下这两个的区别：</p><blockquote><p>pdflatex是基于pdfTeX引擎的LaTeX编译器，它支持的字体格式包括Type1、TrueType和OpenType，但它只能处理TeX&#x2F;LaTeX文档的默认编码格式ASCII和Latin-1，如果文档中包含非ASCII字符，需要使用特殊的宏包和命令进行处理。</p></blockquote><blockquote><p>xelatex是基于XeTeX引擎的LaTeX编译器，它与pdflatex不同的是，它完全支持Unicode编码，可以直接处理UTF-8、UTF-16和UTF-32等多种Unicode编码格式，并且可以使用系统中安装的所有TrueType和OpenType字体，不需要通过特殊的宏包和命令进行处理。</p></blockquote><p>总结一下，就是xelatex所支持的字体格式更多，就算没有也能用系统自带的字体进行替换，pdflatex则不一样了，如果你和我一样这一步报错大概是因为缺少字体的原因，现在看来有两种解决方法。</p><p>方法1:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo tlmgr install collection-fontsrecommended<br></code></pre></td></tr></table></figure><p>一行命令解决，但是我记得当时下载的时间略微有点长，不要以为它卡了就行。</p><p>方法2:<br>如果你也使用的texifier的话，他会自动下载你文档所需要的包和字体，听起来很爽是吧，是的！就是这个软件的价格有点贵😬</p><h4 id="Q3-到了这一步应该可以痛痛快快写论文了，但是我推荐下载以下我列出的包。"><a href="#Q3-到了这一步应该可以痛痛快快写论文了，但是我推荐下载以下我列出的包。" class="headerlink" title="Q3:到了这一步应该可以痛痛快快写论文了，但是我推荐下载以下我列出的包。"></a>Q3:到了这一步应该可以痛痛快快写论文了，但是我推荐下载以下我列出的包。</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">sudo tlmgr install bibtex8<br>sudo tlmgr install platex<br>sudo tlmgr install biber<br></code></pre></td></tr></table></figure><h3 id="补充说明"><a href="#补充说明" class="headerlink" title="补充说明"></a>补充说明</h3><p>如果你不想手打引用，<del>应该没人愿意手打reference吧</del>，建议目录下自建一个<code>*.bib</code>文件，具体什么原理这里不细说了，反正就是用bibtex编译的文件，把你需要的文章的bibtex格式写进去。记得在你的文章末尾处加入两行代码。</p><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs tex"><span class="hljs-keyword">\bibliographystyle</span>&#123;选择你需要的样式（有啥样式自己查）&#125;<br><span class="hljs-keyword">\bibliography</span>&#123;你的bib文件的名字&#125;<br></code></pre></td></tr></table></figure><h2 id="结尾"><a href="#结尾" class="headerlink" title="结尾"></a>结尾</h2><p>texpad真好用 - - </p><p>vscode当然也不错了，只是我自己不想用vscode身兼数职，就好好写写文档代码这样吧，论文还是换个软件写。</p><p>如果之后遇到了新坑也会更新的🐦</p><p>欢迎留言</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;Introduction&quot;&gt;&lt;a href=&quot;#Introduction&quot; class=&quot;headerlink&quot; title=&quot;Introduction&quot;&gt;&lt;/a&gt;Introduction&lt;/h2&gt;&lt;p&gt;最近跑了个几个实验，随即该写写论文了，正巧今天出去玩了，回来</summary>
+      
+    
+    
+    
+    <category term="折腾记" scheme="https://jackeyzzz12138.github.io/categories/%E6%8A%98%E8%85%BE%E8%AE%B0/"/>
+    
+    
+    <category term="论文" scheme="https://jackeyzzz12138.github.io/tags/%E8%AE%BA%E6%96%87/"/>
+    
+    <category term="Latex" scheme="https://jackeyzzz12138.github.io/tags/Latex/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录一下博客音乐播放器的折腾过程</title>
+    <link href="https://jackeyzzz12138.github.io/2023/07/14/%E6%8A%98%E8%85%BE%E8%AE%B0-02/"/>
+    <id>https://jackeyzzz12138.github.io/2023/07/14/%E6%8A%98%E8%85%BE%E8%AE%B0-02/</id>
+    <published>2023-07-14T12:24:16.000Z</published>
+    <updated>2023-07-29T04:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="引子"><a href="#引子" class="headerlink" title="引子"></a>引子</h2><p>这个博客使用的主要是aplayer播放器（具体效果可以在关于页面查看），具体要填入音乐、专辑图还有歌词的url，之前用的第三方的提取url进行使用，但是貌似有有效期，经常会挂掉，从网上搜寻了一下相关的资料，打算自己总结一下。</p><h2 id="方法（小白适用）"><a href="#方法（小白适用）" class="headerlink" title="方法（小白适用）"></a>方法（小白适用）</h2><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><p>这里以网易云音乐为例，使用网页版进入你要找的音乐可以在url的结尾看到<code>id=*********</code>,我们可以把这串id记录下来，然后输入这串网址</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs url">http://music.163.com/song/media/outer/url?id=**********.mp3<br># 星号替换成你的id<br></code></pre></td></tr></table></figure><p>然后就得到了这首歌直链下载地址，但是还是得强调<strong>音乐版权</strong>的重要性，多的也不说了。</p><h3 id="专辑图"><a href="#专辑图" class="headerlink" title="专辑图"></a>专辑图</h3><p>这里可能要打开你的浏览器开发者工具，具体怎么开可以自己搜索一下（<del>小白这个应该会查的吧啊喂</del>），然后就找就完了😂<br><strong>其实可以直接右键专辑图，在新标签页打开就有url</strong> [doge]</p><h3 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h3><p>大致的方法网络上有很多，如果你有VPS或服务器的话可以直接存在自己的服务器上，这里的方法只针对没有相关云资源的小伙伴。  </p><p><del>但是我没有找到可以直链下载导入的，但是可以换一种方式，可以使用自己的云盘并将其转为直链下载的方式，我这里用onedrive举例。</del></p><p><del>首先可以用这个<a href="http://opqnext.com/">web工具</a>、或者油猴脚本、或者控制台的方式进行提取。然后我们将其lrc文件存入自己的网盘中，然后我们将其共享可以得到一个加密的链接，此时并不是直链！<br>再用到了这个<a href="https://link.gimhoy.com/">onedrive转直链的工具</a>，注意不要共享很隐私的文件，毕竟安全性未知。这里可以填入你的歌词链接，将其转为直链填入你的aplayer配置代码里即可。</del>  </p><p><code>onedrive转直链</code>的方法目前对播放器不太奏效，但是<strong>仍然</strong>可以通过这个加速下载。但是可以创建个github仓库来存储你的lrc文件，浏览raw格式，并将<code>https://raw.githubcontent.com/.......</code>的url填入aplayer播放器的相应url里。</p><blockquote><p>记得仓库必须是public</p></blockquote><h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>写到这里大约十点了，下班！以后哪个方法失效了，麻烦提醒我更新🐦</p><h2 id="update"><a href="#update" class="headerlink" title="update"></a>update</h2><p>这个是我折腾flex-block时候的折腾过程，需要确认你的博客是否支持插入音乐。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;引子&quot;&gt;&lt;a href=&quot;#引子&quot; class=&quot;headerlink&quot; title=&quot;引子&quot;&gt;&lt;/a&gt;引子&lt;/h2&gt;&lt;p&gt;这个博客使用的主要是aplayer播放器（具体效果可以在关于页面查看），具体要填入音乐、专辑图还有歌词的url，之前用的第三方的提取url进</summary>
+      
+    
+    
+    
+    <category term="折腾记" scheme="https://jackeyzzz12138.github.io/categories/%E6%8A%98%E8%85%BE%E8%AE%B0/"/>
+    
+    
+    <category term="折腾" scheme="https://jackeyzzz12138.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="博客" scheme="https://jackeyzzz12138.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="音乐" scheme="https://jackeyzzz12138.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建这个博客我都干了什么</title>
+    <link href="https://jackeyzzz12138.github.io/2023/07/11/%E6%8A%98%E8%85%BE%E8%AE%A1-01/"/>
+    <id>https://jackeyzzz12138.github.io/2023/07/11/%E6%8A%98%E8%85%BE%E8%AE%A1-01/</id>
+    <published>2023-07-11T12:45:43.000Z</published>
+    <updated>2023-10-05T02:59:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h2><p>因为自己折腾代理的时候发现在网络上没有太多的关于<code>shadowrocket</code>🚀的资料，所以自己折腾了一波，想记录一下折腾的结果并且记录下来给有同样需求的人用吧，就自己用GitHub pages 搭了这个基于<code>hexo</code>的博客。</p><h2 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h2><p>过程其实蛮曲折的，虽然网络上的教程很多，但是要么太老，要么diy的程度太低，大多都是NEXT主题的教程，再加上自己小白的属性，看不懂文档和嫌弃教程太麻烦大概花了将近两天的时间。</p><p>我这个博客的实现原理是使用<code>github actions</code>进行自动化搭建的，(虽然hexo deploy也能实现，但是我太懒了，只想每次写完push上去就跑。<del>当然节约下来的时间也没去学习</del>)下面说一下具体的搭建方法和搭建时候的一些坑。</p><p>首先在hexo官网找到对应的文档，印象中是要下载“npm”（就是nodejs）和 git，具体安装和配环境就不谈了。然后新建一个文件夹再打开终端，输入</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">hexo init<br></code></pre></td></tr></table></figure><p>这时你的文件夹里会出现一堆配置文件，然后有的教程会让你编辑<code>_config.yml</code> 我建议是先把自己喜欢的主题下载下来，再改config。</p><h3 id="第一个坑"><a href="#第一个坑" class="headerlink" title="第一个坑"></a>第一个坑</h3><p>有的教程会让你以git submodule的形式进行挂载，<strong>但是这个并不适用于每一个theme</strong>，我的建议是把文件以zip的形式下载下来解压至<code>themes/</code>，我这边直接git clone还是会识别成子模块然后导致一系列后续的错误。<br>具体的错误成因暂时不清楚，但是如果你也遇到相应的问题或许可以这种方式进行解决。<code>我的猜测是因为hexo文件本身就是git管理的仓库，在git下再进行git可能就自动识别成了子模块</code></p><p>这个时候你已经成功下载了themes，只需要到根目录下的config里theme改为你需要的主题名称就行了。(除此之外，其他的几乎没改，<strong>名字啥的还是可以改一下的哈~</strong>)这时本地跑一下看一下效果，如果没有问题基本没啥大问题了。</p><p>tips：</p><blockquote><p>注意github的默认分支不再是master而是main👀</p></blockquote><h3 id="第二个坑"><a href="#第二个坑" class="headerlink" title="第二个坑"></a>第二个坑</h3><p>如果使用官方的deploy工具，他的大致原理就是把你的md文档转成html的文件这样可以访问，他会在你的<code>***.github.io</code>这个仓库内创建两个分支，一个分支是你的源代码分支，另一个分支是<code>gh-pages</code>，把你的gh-pages设为网页展示的分支就可以了。在这里我遇到了本地展示正常但是访问网页时没有themes或者一片空白的情况，当时弄到了很晚准备睡了，第二天准备折腾这个问题并且配置一下github actions进行自动配置。</p><p>github actions 的配置需要：</p><ul><li>一个private库用来存源码</li><li>一个public库即上文的<code>*.github.io</code></li><li>一个workflows的配置文件</li><li>一个密钥</li></ul><p>接下来所有的操作都在你的源码库进行：<br>先申请密钥，这个不细说了具体操作请<code>STFW</code>，我这里提醒一下密钥的权限要申请能调用和修改仓库<br>我自用的workflows配置文件是：</p><blockquote><p>目前是2.0 改良版本，由于github actions的时区应该是UTC时间，如果你的时区与之不符需要调整workflows的时区如下</p></blockquote><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">name:</span> <span class="hljs-string">deploying</span> <span class="hljs-string">Hexo</span> <span class="hljs-string">project</span> <span class="hljs-string">to</span> <span class="hljs-string">GitHub</span> <span class="hljs-string">pages</span><br><span class="hljs-attr">on:</span><br>  <span class="hljs-attr">push:</span><br>    <span class="hljs-attr">branches:</span><br>      <span class="hljs-bullet">-</span> <span class="hljs-string">master</span> <span class="hljs-comment"># master 分支有 push 行为时就触发这个 action, 更改成你的仓库分支名</span><br><br><span class="hljs-attr">env:</span><br>  <span class="hljs-attr">TZ:</span> <span class="hljs-string">Hongkong</span> <span class="hljs-comment"># 改成你所在的地区/时区</span><br><br><span class="hljs-attr">jobs:</span><br>  <span class="hljs-attr">build-and-deploy:</span><br>    <span class="hljs-attr">runs-on:</span> <span class="hljs-string">ubuntu-latest</span><br>    <span class="hljs-attr">steps:</span><br>      <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Check</span> <span class="hljs-string">the</span> <span class="hljs-string">current</span> <span class="hljs-string">timezone</span> <span class="hljs-string">database</span> <span class="hljs-comment"># 输出时区文件夹</span><br>        <span class="hljs-attr">run:</span> <span class="hljs-string">|</span><br><span class="hljs-string">          ls /usr/share/zoneinfo</span><br><span class="hljs-string">          echo &quot;---&quot;</span><br><span class="hljs-string">          date</span><br><span class="hljs-string">          echo &quot;---&quot;</span><br><span class="hljs-string"></span>          <br>      <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Show</span> <span class="hljs-string">the</span> <span class="hljs-string">timezone</span> <span class="hljs-comment">#看看修改成功了没有</span><br>        <span class="hljs-attr">run:</span> <span class="hljs-string">|</span><br><span class="hljs-string">          echo &quot;The timezone is $TZ&quot;</span><br><span class="hljs-string">          date</span><br><span class="hljs-string"></span>      <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Checkout</span><br>        <span class="hljs-attr">uses:</span> <span class="hljs-string">actions/checkout@master</span><br><br>      <span class="hljs-bullet">-</span> <span class="hljs-attr">name:</span> <span class="hljs-string">Build</span> <span class="hljs-string">and</span> <span class="hljs-string">Deploy</span><br>        <span class="hljs-attr">uses:</span> <span class="hljs-string">theme-keep/hexo-deploy-github-pages-action@master</span> <span class="hljs-comment"># 使用专门部署 Hexo 到 GitHub pages 的 action</span><br>        <span class="hljs-attr">env:</span><br>          <span class="hljs-attr">PERSONAL_TOKEN:</span> <span class="hljs-string">$&#123;&#123;</span> <span class="hljs-string">secrets.HEXO_DEPLOY</span> <span class="hljs-string">&#125;&#125;</span> <span class="hljs-comment"># secret 名</span><br>          <span class="hljs-attr">PUBLISH_REPOSITORY:</span>  <span class="hljs-comment"># 公共仓库，格式：GitHub 用户名/仓库名</span><br>          <span class="hljs-attr">BRANCH:</span> <span class="hljs-string">gh-pages</span> <span class="hljs-comment"># 分支，填 gh-pages 就行</span><br>          <span class="hljs-attr">PUBLISH_DIR:</span> <span class="hljs-string">./public</span> <span class="hljs-comment"># 部署 public 目录下的文件</span><br></code></pre></td></tr></table></figure><blockquote><p>如果你想了解更多关于这个workflows，可以到这个<a href="https://github.com/theme-keep/hexo-deploy-github-pages-action">仓库</a>查看  </p></blockquote><p>然后折腾完成后，每次写文章只需要push到自己的源码仓库，github actions会监测你的每次push，帮你编译且发布到你的github pages的那个仓库里。</p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>至此，配置完成后，我发现所有问题都消失了，每次只用专心写文章然后push到仓库里就不用管了，属实舒服，<del>这样就有更多的时间折腾别的了</del>。谨以此文记录自己那两天时间，也许也能帮助到其他人呢？</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;起因&quot;&gt;&lt;a href=&quot;#起因&quot; class=&quot;headerlink&quot; title=&quot;起因&quot;&gt;&lt;/a&gt;起因&lt;/h2&gt;&lt;p&gt;因为自己折腾代理的时候发现在网络上没有太多的关于&lt;code&gt;shadowrocket&lt;/code&gt;🚀的资料，所以自己折腾了一波，想记录一下</summary>
+      
+    
+    
+    
+    <category term="折腾记" scheme="https://jackeyzzz12138.github.io/categories/%E6%8A%98%E8%85%BE%E8%AE%B0/"/>
+    
+    
+    <category term="折腾" scheme="https://jackeyzzz12138.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+    <category term="博客" scheme="https://jackeyzzz12138.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>某教育类软件检测代理的解决方法</title>
+    <link href="https://jackeyzzz12138.github.io/2023/07/11/%E6%8A%98%E8%85%BE%E8%AE%A1-00/"/>
+    <id>https://jackeyzzz12138.github.io/2023/07/11/%E6%8A%98%E8%85%BE%E8%AE%A1-00/</id>
+    <published>2023-07-11T11:50:57.000Z</published>
+    <updated>2023-08-01T02:27:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="事情的起因"><a href="#事情的起因" class="headerlink" title="事情的起因"></a>事情的起因</h2><p>当手机开启了VPN，某教育类软件<del>xx笑联</del>的软件，从而显示网络错误。其实这样的软件挺常见的，多数为<strong>金融类</strong>软件会识别出你当前是否开启代理，但是网上的解决方法已有，根据抓包他的域名从而 skip-proxy 即可实现。这个软件即使我抓包了其域名并添加到规则里仍然不能停止其网络异常的弹窗-__-,遂即需要换一种思路。</p><h2 id="事情的过程"><a href="#事情的过程" class="headerlink" title="事情的过程"></a>事情的过程</h2><h3 id="灵感-0"><a href="#灵感-0" class="headerlink" title="灵感 0"></a>灵感 0</h3><p>在V站上找到一篇帖子，存钱吧（好像是这个软件），作者说添加域名也无效，但是使用wireguard或者系统自带的VPN并不会禁止访问，我随即效仿，发现这个软件的判断方法与之相似，但是帖子下面并没有解决方法。</p><h3 id="灵感-1"><a href="#灵感-1" class="headerlink" title="灵感 1"></a>灵感 1</h3><p>在搜寻互联网的结果下，我无意中找到了相关的解决方案，如果你是shadowrocket的用户，只需要这么做。<br><img src="https://s2.loli.net/2023/07/11/I46vXNkASaOpbeE.jpg" width="50%" height="50%"><br>将代理类型设置为None即可，随后查了相关的副作用，就本人而言，相关的去广告的模块偶尔有失效作用，但是又不是不能用(<br><img src="https://s2.loli.net/2023/07/11/yjRW6IaYg9vsLxo.png" alt="官方解决方法"></p><h2 id="写在最后"><a href="#写在最后" class="headerlink" title="写在最后"></a>写在最后</h2><p>随后查询了一下surge的手册，应该是代理软件建立了两个方式进行代理，一个是HTTP的，一个是类似于TUN模式的代理方式，一般情况下是混合模式，就是同时运行着，而这个软件的检测方式也是对HTTP的检测，此时关闭掉HTTP，直接使用TUN代理（在网络层能代理绝大多数不支持代理的软件）,就不会弹窗了。在这里喷一下这类<strong>打着教育旗号并且强制学生下载的垃圾软件</strong>，但凡按照正常的开发逻辑和框架，支持系统代理至少是一个GUI软件应该支持的功能，并且检测VPN并不能使你的程序更安全。</p><blockquote><p>TUN：这种代理方式更加底层一点，创建一个虚拟网卡来接管你的所有流量，可以适用于那种不遵守系统代理的程序，在PC上使用命令行工具时想使用代理也可以用这种方式。但在移动平台上，网络上有TUN比Http proxy开销更大的说法，但经自己的不科学测试，个人感觉差别不大或者可以接受。</p></blockquote><h2 id="补充"><a href="#补充" class="headerlink" title="补充"></a>补充</h2><p><del>最近在用运营商app进行话费充值时发现会检测网络状况，无论是warp还是添加<code>*.10086.cn</code>到skip-proxy或者上文的方法都会被识别到，这种情况可能是系统级的VPN检测，<code>但是测试下来，发现并不是单纯检测系统VPN，所以可能是其他检测方式</code>，目前只能关闭代理，没有找到很好的解决方法。如果你有好的解决方法，欢迎交流hh</del>(已解决，可能是手机或者小火箭MITM的问题🤨，有听说小火箭MITM不太稳)</p><hr><p>找到一篇LOON的手册，小火箭太难受了几乎没有document - - <del>果然喜欢折腾的还是得选更贵的软件！</del></p><figure class="highlight fortran"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs fortran">问：代理模式里我该使用HTTP Proxy&amp;TUN还是TUN <span class="hljs-keyword">Only</span>？<br>答：理论上，TUN是一个工作在网络层（三层）的虚拟网卡设备。由于足够底层，所以它可以代理那些不允许被代理的应用。因此，需要处理的数据量要比HTTP Proxy&amp;TUN要多很多，自然开销也要多一些。但是，在实际的使用中，由于Loon对TUN <span class="hljs-keyword">Only</span>模式的优化，用户很难察觉出二者的性能差异以及对设备续航的影响。<br>如果你不想被一些应用提示“检测到正在使用代理”，建议你将代理模式切换为TUN <span class="hljs-keyword">Only</span>，这样就可以杜绝大部分已知或未知应用对代理工具的检测。<br>虽然有插件作者制作了主流的绕过路由列表，但是，毕竟收集到的应用有限，很难覆盖到所有用户的需求。使用TUN <span class="hljs-keyword">Only</span>模式可以不用为了一些会检测代理的小众应用抓取请求制作自己的绕过路由列表，省事省心，这在体验上是优于HTTP Proxy&amp;TUN模式的。<br></code></pre></td></tr></table></figure><blockquote><p>这里我贴上LOON手册的<a href="https://getupnote.com/share/notes/zSn1ShBmzNYISKcTgjXE5oHMrNf2/b6047d8b-621c-44af-bfa6-a28d35bcf928">链接</a>，感兴趣的可以了解一下。</p></blockquote><h2 id="更新"><a href="#更新" class="headerlink" title="更新"></a>更新</h2><p>最近发现了<a href="https://github.com/wlxuf/Shadowrocket">小火箭的手册</a>，爱折腾的可以了解一下。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;事情的起因&quot;&gt;&lt;a href=&quot;#事情的起因&quot; class=&quot;headerlink&quot; title=&quot;事情的起因&quot;&gt;&lt;/a&gt;事情的起因&lt;/h2&gt;&lt;p&gt;当手机开启了VPN，某教育类软件&lt;del&gt;xx笑联&lt;/del&gt;的软件，从而显示网络错误。其实这样的软件挺常见的，多数</summary>
+      
+    
+    
+    
+    <category term="折腾记" scheme="https://jackeyzzz12138.github.io/categories/%E6%8A%98%E8%85%BE%E8%AE%B0/"/>
+    
+    
+    <category term="网络" scheme="https://jackeyzzz12138.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+    <category term="折腾" scheme="https://jackeyzzz12138.github.io/tags/%E6%8A%98%E8%85%BE/"/>
+    
+  </entry>
+  
+</feed>
